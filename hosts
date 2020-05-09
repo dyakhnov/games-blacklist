@@ -1,4 +1,5 @@
 account-public-service-prod03.ol.epicgames.com
+account-public-service-prod.ak.epicgames.com
 account-public-service-prod.ol.epicgames.com
 account.riotgames.com
 accounts.epicgames.com
@@ -15,6 +16,7 @@ cache2-syd1.steamcontent.com
 cache3-syd1.steamcontent.com
 cache-cms-ext-us.battle.net
 catalog-public-service-prod06.ol.epicgames.com
+catalog-public-service-prod.ak.epicgames.com
 cdn1.epicgames.com
 cdn.akamai.steamstatic.com
 cdn.steamid.uk
@@ -70,15 +72,19 @@ crash.steampowered.com
 csgo.steamanalyst.com
 data.riotgames.com
 datarouter.ol.epicgames.com
+datarouter-prod.ak.epicgames.com
+download2.epicgames.com
 download.epicgames.com
 edgecast.cdn.steampipe.steamcontent.com
 edge.rgl.pmc.pay.riotgames.com
 ekg.riotgames.com
 entitlement-public-service-prod08.ol.epicgames.com
+entitlement-public-service-prod.ak.epicgames.com
 entitlements.auth.riotgames.com
 epicgames.com
 eu.battle.net
 eulatracking-public-service-prod06.ol.epicgames.com
+eulatracking-public-service-prod.ak.epicgames.com
 eu.launcher.battle.net
 eu.patch.battle.net
 events-public-service-live.ol.epicgames.com
@@ -89,6 +95,7 @@ fortnite-public-service-prod11.ol.epicgames.com
 fortnitewaitingroom-public-service-prod.ol.epicgames.com
 forums.steampowered.com
 friends-public-service-prod06.ol.epicgames.com
+friends-public-service-prod.ak.epicgames.com
 friends-public-service-prod.ol.epicgames.com
 fs.riotgames.com
 gds1.steampowered.com
@@ -106,10 +113,13 @@ jp1.chat.si.riotgames.com
 ks-foundation.secure.dyn.riotcdn.net
 lancache.steamcontent.com
 launcher-public-service-prod06.ol.epicgames.com
+launcher-public-service-prod.ak.epicgames.com
 level3.cdn.steampipe.steamcontent.com
 library-service.live.use1a.on.epicgames.com
 lightswitch-public-service-prod06.ol.epicgames.com
+lightswitch-public-service-prod.ak.epicgames.com
 lightswitch-public-service-prod.ol.epicgames.com
+link.epicgames.com
 links.riotgames.com
 login.riotgames.com
 lol.dyn.riotcdn.net
