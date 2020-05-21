@@ -122,6 +122,7 @@ fortnite-matchmaking-public-service-live-oce.ol.epicgames.com
 fortnite-mm-public-service-live-oce.ak.epicgames.com
 fortnite-public-service-prod11.ol.epicgames.com
 fortnite-public-service-prod.ak.epicgames.com
+fortnitewaitingroom-public-service-prod.ak.epicgames.com
 fortnitewaitingroom-public-service-prod.ol.epicgames.com
 forums.steampowered.com
 friends-public-service-prod06.ol.epicgames.com
@@ -151,6 +152,7 @@ ks-foundation.secure.dyn.riotcdn.net
 lancache.steamcontent.com
 launcher-public-service-prod06.ol.epicgames.com
 launcher-public-service-prod.ak.epicgames.com
+launcher-website-prod07.ol.epicgames.com
 level3.cdn.steampipe.steamcontent.com
 library-service.live.use1a.on.epicgames.com
 lightswitch-public-service-prod06.ol.epicgames.com
@@ -167,13 +169,16 @@ lol.secure.dyn.riotcdn.net
 lq.oc1.lol.riotgames.com
 media4.steampowered.com
 media.steampowered.com
+merchantpool1.epicgames.com
 metrics.roblox.com
 notifications.roblox.com
 nydus.battle.net
 oc1.cap.riotgames.com
+orderprocessor-public-service-ecomprod01.ol.epicgames.com
 party-service-prod.ak.epicgames.com
 party-service-prod.ol.epicgames.com
 pas.geo.si.riotgames.com
+payment-website-pci.ol.epicgames.com
 playerpreferences.riotgames.com
 pmc.pay.riotgames.com
 premiumfeatures.roblox.com
