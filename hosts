@@ -13,6 +13,7 @@ api.account.riotgames.com
 api.roblox.com
 apis.roblox.com
 api.steampowered.com
+apne.pp.riotgames.com
 asia.vts.si.riotgames.com
 assetdelivery.roblox.com
 assetgame.roblox.com
@@ -176,6 +177,7 @@ media-cdn.epicgames.com
 media.steampowered.com
 merchantpool1.epicgames.com
 metrics.roblox.com
+notification.kr.riotgames.com
 notifications.roblox.com
 nydus.battle.net
 oc1.cap.riotgames.com
@@ -184,6 +186,7 @@ party-service-prod.ak.epicgames.com
 party-service-prod.ol.epicgames.com
 pas.geo.si.riotgames.com
 payment-website-pci.ol.epicgames.com
+pdx2collector.rtp.service.riotgames.com
 playerpreferences.riotgames.com
 pmc.pay.riotgames.com
 premiumfeatures.roblox.com
@@ -197,7 +200,11 @@ qos3.ol.epicgames.com
 qos4.ol.epicgames.com
 realtime.roblox.com
 riot-client.dyn.riotcdn.net
+riot-client.secure.dyn.riotcdn.net
 riotgames.com
+riotgames.zendesk.com
+riot-geo.pas.si.riotgames.com
+riot-geo.vts.si.riotgames.com
 roblox.com
 shop.battle.net
 sieve.services.riotcdn.net
@@ -230,7 +237,9 @@ store.oc1.lol.riotgames.com
 store-site-backend-static.ak.epicgames.com
 store.steampowered.com
 support.bluestacks.com
+support-leagueoflegends.riotgames.com
 support.steampowered.com
+support-valorant.riotgames.com
 telemetry-in.battle.net
 themes.pay.riotgames.com
 thumbnails.roblox.com
