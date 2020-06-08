@@ -66,6 +66,7 @@ cm1-hkg1.cm.steampowered.com
 cm1-iad1.cm.steampowered.com
 cm1-lax1.cm.steampowered.com
 cm1-okc1.cm.steampowered.com
+cm1-ord1.cm.steampowered.com
 cm1-sea1.cm.steampowered.com
 cm1-sgp1.cm.steampowered.com
 cm1-sto1.cm.steampowered.com
@@ -76,6 +77,7 @@ cm2-hkg1.cm.steampowered.com
 cm2-iad1.cm.steampowered.com
 cm2-lax1.cm.steampowered.com
 cm2-okc1.cm.steampowered.com
+cm2-ord1.cm.steampowered.com
 cm2-sea1.cm.steampowered.com
 cm2-sgp1.cm.steampowered.com
 cm2-sto1.cm.steampowered.com
@@ -92,8 +94,10 @@ cm4-hkg1.cm.steampowered.com
 cm4-iad1.cm.steampowered.com
 cm4-lax1.cm.steampowered.com
 cm4-lhr1.cm.steampowered.com
+cm4-ord1.cm.steampowered.com
 cm4-sgp1.cm.steampowered.com
 cm4-sto1.cm.steampowered.com
+cm5-iad1.cm.steampowered.com
 cm5-ord1.cm.steampowered.com
 cm6-ord1.cm.steampowered.com
 contacts.roblox.com
@@ -203,6 +207,7 @@ qos2.ol.epicgames.com
 qos3.ol.epicgames.com
 qos4.ol.epicgames.com
 realtime.roblox.com
+riotcdn.net
 riot-client.dyn.riotcdn.net
 riot-client.secure.dyn.riotcdn.net
 riotgames.com
@@ -266,6 +271,7 @@ web.roblox.com
 www.battle.net
 www.bluestacks.com
 www.epicgames.com
+www.riotcdn.net
 www.riotgames.com
 www.roblox.com
 www.steamcommunity.com
