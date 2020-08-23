@@ -12,7 +12,10 @@ cache2-syd1.steamcontent.com
 cache3-syd1.steamcontent.com
 catalog-public-service-prod06.ol.epicgames.com
 cdn1.epicgames.com
+cdn3.bluestacks.com
+cdn-bgp.bluestacks.com
 cdn.cloudflare.steamstatic.com
+cdn-www.bluestacks.com
 clientconfig.akamai.steamstatic.com
 clientconfig.rpg.riotgames.com
 client-download.steampowered.com
@@ -91,6 +94,7 @@ steamuserimages-a.akamaihd.net
 store-content.ak.epicgames.com
 store-site-backend-static.ak.epicgames.com
 store.steampowered.com
+support.bluestacks.com
 support-leagueoflegends.riotgames.com
 support-valorant.riotgames.com
 tracking.epicgames.com
@@ -101,5 +105,7 @@ valorant.dyn.riotcdn.net
 valorant.secure.dyn.riotcdn.net
 valve2000.steamcontent.com
 valve2001.steamcontent.com
+webapi-cloud.bluestacks.com
+www.bluestacks.com
 www.epicgames.com
 xmpp-service-prod.ol.epicgames.com
