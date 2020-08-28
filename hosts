@@ -5,6 +5,7 @@ api.account.riotgames.com
 api.steampowered.com
 apne.pp.riotgames.com
 assetdelivery.roblox.com
+authenticate.riotgames.com
 auth.riotgames.com
 bacon.secure.dyn.riotcdn.net
 cache1-syd1.steamcontent.com
@@ -53,6 +54,7 @@ crash.steampowered.com
 data.riotgames.com
 datarouter.ol.epicgames.com
 download.epicgames.com
+edge.rgl.pmc.pay.riotgames.com
 ekg.riotgames.com
 entitlement-public-service-prod08.ol.epicgames.com
 entitlements.auth.riotgames.com
