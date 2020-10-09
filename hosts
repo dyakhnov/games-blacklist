@@ -86,6 +86,7 @@ level3.cdn.steampipe.steamcontent.com
 library-service.live.use1a.on.epicgames.com
 lightswitch-public-service-prod06.ol.epicgames.com
 link.epicgames.com
+login.riotgames.com
 lol.secure.dyn.riotcdn.net
 media4.steampowered.com
 media.steampowered.com
@@ -135,4 +136,5 @@ valve2001.steamcontent.com
 webapi-cloud.bluestacks.com
 www.bluestacks.com
 www.epicgames.com
+www.riotgames.com
 xmpp-service-prod.ol.epicgames.com
