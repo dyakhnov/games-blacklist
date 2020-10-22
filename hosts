@@ -3,6 +3,7 @@ account-public-service-prod03.ol.epicgames.com
 account.riotgames.com
 accounts.epicgames.com
 accountsettings.roblox.com
+america.tas.riotgames.com
 api.account.riotgames.com
 apis.roblox.com
 api.steampowered.com
@@ -79,6 +80,7 @@ epicgames.com
 event-assets.clashroyale.com
 friends-public-service-prod06.ol.epicgames.com
 friends.roblox.com
+fs.riotgames.com
 games.roblox.com
 gds1.steampowered.com
 gds2.steampowered.com
@@ -104,13 +106,16 @@ link.epicgames.com
 lms.roblox.com
 locale.roblox.com
 login.riotgames.com
+lol.dyn.riotcdn.net
 lol.secure.dyn.riotcdn.net
+lq.oc1.lol.riotgames.com
 media4.steampowered.com
 media.steampowered.com
 metrics.roblox.com
 mia1-128-116-127-3.roblox.com
 notification.kr.riotgames.com
 notifications.roblox.com
+oc1.cap.riotgames.com
 ord2-128-116-101-3.roblox.com
 pdx2collector.rtp.service.riotgames.com
 playerpreferences.riotgames.com
@@ -118,6 +123,7 @@ pmc.pay.riotgames.com
 premiumfeatures.roblox.com
 presence.roblox.com
 privatemessages.roblox.com
+prod.oc1.lol.riotgames.com
 qos4.ol.epicgames.com
 realtime.roblox.com
 riot-client.dyn.riotcdn.net
@@ -125,6 +131,7 @@ riot-client.secure.dyn.riotcdn.net
 riotgames.zendesk.com
 riot-geo.pas.si.riotgames.com
 riot-geo.vts.si.riotgames.com
+sieve.services.riotcdn.net
 social.krunker.io
 static-assets-prod.epicgames.com
 status.riotgames.com
