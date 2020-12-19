@@ -18,6 +18,7 @@ auth.riotgames.com
 auth.roblox.com
 authsite.roblox.com
 bacon.secure.dyn.riotcdn.net
+cache14-lax1.steamcontent.com
 cache19-lax1.steamcontent.com
 cache1-lax1.steamcontent.com
 cache1-syd1.steamcontent.com
@@ -28,6 +29,8 @@ cache2-sgp1.steamcontent.com
 cache2-syd1.steamcontent.com
 cache3-syd1.steamcontent.com
 cache4-lax1.steamcontent.com
+cache5-lax1.steamcontent.com
+cache5-ord1.steamcontent.com
 cache6-sgp1.steamcontent.com
 catalog-public-service-prod06.ol.epicgames.com
 catalog-public-service-prod.ak.epicgames.com
@@ -83,14 +86,17 @@ crash.steampowered.com
 data.riotgames.com
 datarouter.ol.epicgames.com
 datarouter-prod.ak.epicgames.com
+download2.epicgames.com
 download.epicgames.com
 economy.roblox.com
 ecsv2.roblox.com
 edge.rgl.pmc.pay.riotgames.com
 ekg.riotgames.com
 entitlement-public-service-prod08.ol.epicgames.com
+entitlement-public-service-prod.ak.epicgames.com
 entitlements.auth.riotgames.com
 epicgames.com
+eulatracking-public-service-prod06.ol.epicgames.com
 event-assets.clashroyale.com
 friends-public-service-prod06.ol.epicgames.com
 friends-public-service-prod.ak.epicgames.com
@@ -129,6 +135,7 @@ lol.dyn.riotcdn.net
 lol.secure.dyn.riotcdn.net
 lq.oc1.lol.riotgames.com
 media4.steampowered.com
+media-cdn.epicgames.com
 media.steampowered.com
 metrics.roblox.com
 mia1-128-116-127-3.roblox.com
