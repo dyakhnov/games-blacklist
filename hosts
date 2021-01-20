@@ -5,6 +5,7 @@ account.riotgames.com
 accounts.epicgames.com
 accountsettings.roblox.com
 america.tas.riotgames.com
+analytics.developer.riotgames.com
 api.account.riotgames.com
 api.krunker.io
 apis.roblox.com
@@ -83,6 +84,7 @@ cm5-ord1.cm.steampowered.com
 cm6-iad1.cm.steampowered.com
 cm6-lax1.cm.steampowered.com
 cm6-ord1.cm.steampowered.com
+community.akamai.steamstatic.com
 community.cloudflare.steamstatic.com
 contacts.roblox.com
 crash.steampowered.com
@@ -167,6 +169,7 @@ shop.battle.net
 sieve.services.riotcdn.net
 social.krunker.io
 static-assets-prod.epicgames.com
+static.developer.riotgames.com
 status.riotgames.com
 steambroadcast.akamaized.net
 steamcdn-a.akamaihd.net
