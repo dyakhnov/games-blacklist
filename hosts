@@ -4,9 +4,16 @@ apne.pp.riotgames.com
 authenticate.riotgames.com
 auth.riotgames.com
 bacon.secure.dyn.riotcdn.net
+cache13-lax1.steamcontent.com
+cache14-lax1.steamcontent.com
+cache1-lax1.steamcontent.com
 cache1-syd1.steamcontent.com
+cache20-lax1.steamcontent.com
 cache2-syd1.steamcontent.com
+cache3-lax1.steamcontent.com
 cache3-syd1.steamcontent.com
+cache4-lax1.steamcontent.com
+cache5-lax1.steamcontent.com
 cdn.akamai.steamstatic.com
 cdn.cloudflare.steamstatic.com
 clientconfig.akamai.steamstatic.com
@@ -64,6 +71,7 @@ steambroadcast.akamaized.net
 steamcdn-a.akamaihd.net
 steamcloudsyd2.blob.core.windows.net
 steamcloud-sydney.storage.googleapis.com
+steamclouduseast2.blob.core.windows.net
 steamcommunity-a.akamaihd.net
 steamcommunity.com
 steampipe.akamaized.net
