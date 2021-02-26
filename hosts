@@ -43,11 +43,14 @@ data.riotgames.com
 edge.rgl.pmc.pay.riotgames.com
 ekg.riotgames.com
 entitlements.auth.riotgames.com
+event-assets.clashroyale.com
 gds1.steampowered.com
 gds2.steampowered.com
 gds3.steampowered.com
 gds4.steampowered.com
 google.cdn.steampipe.steamcontent.com
+inbox.clashroyale.com
+inbox-production.esports.clashroyale.com
 ipv6check-http.steamcontent.com
 ipv6check-udp.steamcontent.com
 java-updates.badlion.net
