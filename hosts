@@ -1,6 +1,8 @@
 api.account.riotgames.com
+api.krunker.io
 api.steampowered.com
 apne.pp.riotgames.com
+assets.krunker.io
 authenticate.riotgames.com
 auth.riotgames.com
 bacon.secure.dyn.riotcdn.net
@@ -51,15 +53,18 @@ gds4.steampowered.com
 google.cdn.steampipe.steamcontent.com
 inbox.clashroyale.com
 inbox-production.esports.clashroyale.com
+ip_d9928be03342a3267fe44b4bf440f647.krunker.io
 ipv6check-http.steamcontent.com
 ipv6check-udp.steamcontent.com
 java-updates.badlion.net
 jp1.chat.si.riotgames.com
+krunker.io
 ks-foundation.secure.dyn.riotcdn.net
 la1.chat.si.riotgames.com
 lancache.steamcontent.com
 level3.cdn.steampipe.steamcontent.com
 lol.secure.dyn.riotcdn.net
+matchmaker.krunker.io
 media.steampowered.com
 mousemessenger.badlion.net
 oce.lers.loyalty.riotgames.com
@@ -87,6 +92,7 @@ store.cloudflare.steamstatic.com
 store.steampowered.com
 themes.pay.riotgames.com
 us.edge.rms.si.riotgames.com
+user-assets.krunker.io
 users.roblox.com
 usw.pp.riotgames.com
 valorant.dyn.riotcdn.net
