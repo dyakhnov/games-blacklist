@@ -31,11 +31,13 @@ cm1-sea1.cm.steampowered.com
 cm1-sgp1.cm.steampowered.com
 cm1-syd1.cm.steampowered.com
 cm2-dfw1.cm.steampowered.com
+cm2-hkg1.cm.steampowered.com
 cm2-lax1.cm.steampowered.com
 cm2-ord1.cm.steampowered.com
 cm2-sea1.cm.steampowered.com
 cm2-sgp1.cm.steampowered.com
 cm2-syd1.cm.steampowered.com
+cm3-hkg1.cm.steampowered.com
 cm3-lax1.cm.steampowered.com
 cm3-sgp1.cm.steampowered.com
 cm4-lax1.cm.steampowered.com
@@ -93,6 +95,7 @@ steamusercontent-a.akamaihd.net
 steamuserimages-a.akamaihd.net
 store.akamai.steamstatic.com
 store.cloudflare.steamstatic.com
+storefront.steampowered.com
 store.steampowered.com
 themes.pay.riotgames.com
 us.edge.rms.si.riotgames.com
