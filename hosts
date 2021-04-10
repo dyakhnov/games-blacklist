@@ -1,6 +1,7 @@
 account-public-service-prod03.ol.epicgames.com
 account.riotgames.com
 accounts.epicgames.com
+accounts.launcher-website-prod07.ol.epicgames.com
 america.tas.riotgames.com
 api.account.riotgames.com
 api.krunker.io
@@ -41,6 +42,7 @@ clientconfig.rpg.riotgames.com
 client-download.steampowered.com
 client-updates.badlion.net
 cm1-dfw1.cm.steampowered.com
+cm1-hkg1.cm.steampowered.com
 cm1-lax1.cm.steampowered.com
 cm1-ord1.cm.steampowered.com
 cm1-sea1.cm.steampowered.com
@@ -116,6 +118,8 @@ pmc.pay.riotgames.com
 priceengine-public-service-ecomprod01.ol.epicgames.com
 prod.oc1.lol.riotgames.com
 qos1.ol.epicgames.com
+qos2.ol.epicgames.com
+qos3.ol.epicgames.com
 riot-client.dyn.riotcdn.net
 riot-client.secure.dyn.riotcdn.net
 riot-geo.pas.si.riotgames.com
@@ -127,6 +131,7 @@ steambroadcast.akamaized.net
 steamcdn-a.akamaihd.net
 steamcloudsyd2.blob.core.windows.net
 steamcloud-sydney.storage.googleapis.com
+steamcloud-ugc.storage.googleapis.com
 steamclouduseast2.blob.core.windows.net
 steamcloud-us-east.s3.dualstack.us-east-1.amazonaws.com
 steamcommunity-a.akamaihd.net
