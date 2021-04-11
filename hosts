@@ -1,4 +1,5 @@
 account-public-service-prod03.ol.epicgames.com
+account-public-service-prod.ak.epicgames.com
 account.riotgames.com
 accounts.epicgames.com
 accounts.launcher-website-prod07.ol.epicgames.com
@@ -34,6 +35,7 @@ cache4-lax1.steamcontent.com
 cache5-lax1.steamcontent.com
 cache6-lax1.steamcontent.com
 catalog-public-service-prod06.ol.epicgames.com
+catalog-public-service-prod.ak.epicgames.com
 cdn1.epicgames.com
 cdn.akamai.steamstatic.com
 cdn.cloudflare.steamstatic.com
@@ -58,6 +60,7 @@ cm2-syd1.cm.steampowered.com
 cm3-hkg1.cm.steampowered.com
 cm3-lax1.cm.steampowered.com
 cm3-sgp1.cm.steampowered.com
+cm4-hkg1.cm.steampowered.com
 cm4-lax1.cm.steampowered.com
 cm4-sgp1.cm.steampowered.com
 cm5-lax1.cm.steampowered.com
@@ -68,16 +71,20 @@ connect.ol.epicgames.com
 crash.steampowered.com
 data.riotgames.com
 datarouter.ol.epicgames.com
+datarouter-prod.ak.epicgames.com
 download.epicgames.com
 edge.rgl.pmc.pay.riotgames.com
 ekg.riotgames.com
 entitlement-public-service-prod08.ol.epicgames.com
+entitlement-public-service-prod.ak.epicgames.com
 entitlements.auth.riotgames.com
 epicgames.com
 epic-social-social-modules-prod.ol.epicgames.com
 eulatracking-public-service-prod06.ol.epicgames.com
+eulatracking-public-service-prod.ak.epicgames.com
 event-assets.clashroyale.com
 friends-public-service-prod06.ol.epicgames.com
+friends-public-service-prod.ak.epicgames.com
 fs.riotgames.com
 gds1.steampowered.com
 gds2.steampowered.com
@@ -96,9 +103,11 @@ ks-foundation.secure.dyn.riotcdn.net
 la1.chat.si.riotgames.com
 lancache.steamcontent.com
 launcher-public-service-prod06.ol.epicgames.com
+launcher-public-service-prod.ak.epicgames.com
 level3.cdn.steampipe.steamcontent.com
 library-service.live.use1a.on.epicgames.com
 lightswitch-public-service-prod06.ol.epicgames.com
+lightswitch-public-service-prod.ak.epicgames.com
 login.riotgames.com
 lol.dyn.riotcdn.net
 lol.secure.dyn.riotcdn.net
@@ -116,10 +125,12 @@ pdx2collector.rtp.service.riotgames.com
 playerpreferences.riotgames.com
 pmc.pay.riotgames.com
 priceengine-public-service-ecomprod01.ol.epicgames.com
+priceengine-public-service-prod.ak.epicgames.com
 prod.oc1.lol.riotgames.com
 qos1.ol.epicgames.com
 qos2.ol.epicgames.com
 qos3.ol.epicgames.com
+qos4.ol.epicgames.com
 riot-client.dyn.riotcdn.net
 riot-client.secure.dyn.riotcdn.net
 riot-geo.pas.si.riotgames.com
