@@ -5,6 +5,7 @@ accounts.epicgames.com
 accounts.launcher-website-prod07.ol.epicgames.com
 america.tas.riotgames.com
 api.account.riotgames.com
+api.epicgames.dev
 api.krunker.io
 api.steampowered.com
 apne.pp.riotgames.com
@@ -67,6 +68,7 @@ cm5-lax1.cm.steampowered.com
 cm6-lax1.cm.steampowered.com
 community.akamai.steamstatic.com
 community.cloudflare.steamstatic.com
+connect.epicgames.dev
 connect.ol.epicgames.com
 crash.steampowered.com
 data.riotgames.com
@@ -79,6 +81,7 @@ entitlement-public-service-prod08.ol.epicgames.com
 entitlement-public-service-prod.ak.epicgames.com
 entitlements.auth.riotgames.com
 epicgames.com
+epicgames-download1.akamaized.net
 epic-social-social-modules-prod.ol.epicgames.com
 eulatracking-public-service-prod06.ol.epicgames.com
 eulatracking-public-service-prod.ak.epicgames.com
