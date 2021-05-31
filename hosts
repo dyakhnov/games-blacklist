@@ -88,6 +88,7 @@ cm1-sgp1.cm.steampowered.com
 cm1-syd1.cm.steampowered.com
 cm2-dfw1.cm.steampowered.com
 cm2-hkg1.cm.steampowered.com
+cm2-iad1.cm.steampowered.com
 cm2-lax1.cm.steampowered.com
 cm2-ord1.cm.steampowered.com
 cm2-sea1.cm.steampowered.com
@@ -97,6 +98,7 @@ cm3-hkg1.cm.steampowered.com
 cm3-lax1.cm.steampowered.com
 cm3-sgp1.cm.steampowered.com
 cm4-hkg1.cm.steampowered.com
+cm4-iad1.cm.steampowered.com
 cm4-lax1.cm.steampowered.com
 cm4-sgp1.cm.steampowered.com
 cm5-lax1.cm.steampowered.com
@@ -220,6 +222,7 @@ sin2-128-116-97-3.roblox.com
 sjc1-128-116-117-3.roblox.com
 social-overlay-launchdarkly-api-prod.ol.epicgames.com
 static-assets-prod.epicgames.com
+status.riotgames.com
 steambroadcast.akamaized.net
 steamcdn-a.akamaihd.net
 steamcloudsyd2.blob.core.windows.net
