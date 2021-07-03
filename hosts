@@ -93,6 +93,7 @@ cdn.akamai.steamstatic.com
 cdn-bgp.bluestacks.com
 cdn.cloudflare.steamstatic.com
 cdn-icon.bluestacks.com
+cdn.playersupport.riotgames.com
 cdn.r6-live.aws.r6.ubi.com
 cdn.services.gearboxsoftware.com
 chat.roblox.com
@@ -107,6 +108,7 @@ client-updates.badlion.net
 cloud.bluestacks.com
 cm1-dfw1.cm.steampowered.com
 cm1-hkg1.cm.steampowered.com
+cm1-iad1.cm.steampowered.com
 cm1-lax1.cm.steampowered.com
 cm1-ord1.cm.steampowered.com
 cm1-sea1.cm.steampowered.com
@@ -121,12 +123,14 @@ cm2-sea1.cm.steampowered.com
 cm2-sgp1.cm.steampowered.com
 cm2-syd1.cm.steampowered.com
 cm3-hkg1.cm.steampowered.com
+cm3-iad1.cm.steampowered.com
 cm3-lax1.cm.steampowered.com
 cm3-sgp1.cm.steampowered.com
 cm4-hkg1.cm.steampowered.com
 cm4-iad1.cm.steampowered.com
 cm4-lax1.cm.steampowered.com
 cm4-sgp1.cm.steampowered.com
+cm5-iad1.cm.steampowered.com
 cm5-lax1.cm.steampowered.com
 cm6-iad1.cm.steampowered.com
 cm6-lax1.cm.steampowered.com
@@ -209,6 +213,7 @@ lightswitch-public-service-prod06.ol.epicgames.com
 lightswitch-public-service-prod.ak.epicgames.com
 lms.roblox.com
 locale.roblox.com
+login.playersupport.riotgames.com
 login.riotgames.com
 lol.dyn.riotcdn.net
 lol.secure.dyn.riotcdn.net
@@ -221,6 +226,7 @@ mia2-128-116-127-3.roblox.com
 mousemessenger.badlion.net
 msr-public-ubiservices.ubi.com
 news.services.gearboxsoftware.com
+notification.kr.riotgames.com
 notifications.roblox.com
 nrt1-128-116-120-3.roblox.com
 oc1.cap.riotgames.com
@@ -250,6 +256,7 @@ qos4.ol.epicgames.com
 rblxcdn.roblox.com
 riot-client.dyn.riotcdn.net
 riot-client.secure.dyn.riotcdn.net
+riotgames.zendesk.com
 riot-geo.pas.si.riotgames.com
 riot-geo.vts.si.riotgames.com
 ritoplus.secure.dyn.riotcdn.net
