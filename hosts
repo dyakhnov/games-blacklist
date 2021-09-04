@@ -44,7 +44,9 @@ data.riotgames.com
 datarouter.ol.epicgames.com
 datarouter-prod.ak.epicgames.com
 device.auth.xboxlive.com
+devs-api.poki.com
 dlassets-ssl.xboxlive.com
+edge.rgl.pmc.pay.riotgames.com
 ekg.riotgames.com
 entitlements.auth.riotgames.com
 epicgames.com
@@ -59,6 +61,7 @@ lol.secure.dyn.riotcdn.net
 matchmaker.krunker.io
 media.steampowered.com
 playerpreferences.riotgames.com
+pmc.pay.riotgames.com
 presence-heartbeat.xboxlive.com
 qos1.ol.epicgames.com
 qos3.ol.epicgames.com
@@ -79,6 +82,7 @@ steamusercontent-a.akamaihd.net
 steamuserimages-a.akamaihd.net
 store.akamai.steamstatic.com
 store.steampowered.com
+themes.pay.riotgames.com
 title.auth.xboxlive.com
 title.mgt.xboxlive.com
 us.edge.rms.si.riotgames.com
