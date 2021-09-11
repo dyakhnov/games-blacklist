@@ -15,6 +15,7 @@ cdn.akamai.steamstatic.com
 cdn.cloudflare.steamstatic.com
 clientconfig.akamai.steamstatic.com
 clientconfig.rpg.riotgames.com
+client-download.steampowered.com
 cloud.bluestacks.com
 cloudcollection-ssl.xboxlive.com
 cm1-dfw1.cm.steampowered.com
@@ -47,6 +48,7 @@ datarouter-prod.ak.epicgames.com
 device.auth.xboxlive.com
 devs-api.poki.com
 dlassets-ssl.xboxlive.com
+download2.epicgames.com
 download.epicgames.com
 edge.rgl.pmc.pay.riotgames.com
 ekg.riotgames.com
@@ -68,6 +70,7 @@ lol.dyn.riotcdn.net
 lol.secure.dyn.riotcdn.net
 matchmaker.krunker.io
 media.steampowered.com
+musicmatch-ssl.xboxlive.com
 northamerica.lers.loyalty.riotgames.com
 playerpreferences.riotgames.com
 pmc.pay.riotgames.com
@@ -84,6 +87,7 @@ riot-geo.vts.si.riotgames.com
 ritoplus.secure.dyn.riotcdn.net
 settings-ssl.xboxlive.com
 sieve.services.riotcdn.net
+static.developer.riotgames.com
 status.riotgames.com
 steambroadcast.akamaized.net
 steamcdn-a.akamaihd.net
