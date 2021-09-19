@@ -14,6 +14,12 @@ assets.krunker.io
 authenticate.riotgames.com
 auth.riotgames.com
 bacon.secure.dyn.riotcdn.net
+blitz-cdn.blitz.gg
+blitz-cdn-plain.blitz.gg
+blitz-cdn-videos.blitz.gg
+blitz-deltas.blitz.gg
+blitz-desktop.blitz.gg
+blitz-stable.blitz.gg
 cache-cms-ext-us.battle.net
 cdn.akamai.steamstatic.com
 cdn.cloudflare.steamstatic.com
@@ -80,7 +86,9 @@ northamerica.lers.loyalty.riotgames.com
 nydus.battle.net
 playerpreferences.riotgames.com
 pmc.pay.riotgames.com
+prebid.blitz.gg
 presence-heartbeat.xboxlive.com
+privacy.xboxlive.com
 prod.depot.battle.net
 prod.oc1.lol.riotgames.com
 qos1.ol.epicgames.com
@@ -92,6 +100,7 @@ riot-client.secure.dyn.riotcdn.net
 riot-geo.pas.si.riotgames.com
 riot-geo.vts.si.riotgames.com
 ritoplus.secure.dyn.riotcdn.net
+rt.blitz.gg
 settings-ssl.xboxlive.com
 sieve.services.riotcdn.net
 static.developer.riotgames.com
