@@ -20,6 +20,8 @@ blitz-cdn-videos.blitz.gg
 blitz-deltas.blitz.gg
 blitz-desktop.blitz.gg
 blitz-stable.blitz.gg
+cache1-per-edgx.steamcontent.com
+cache2-per-edgx.steamcontent.com
 cache-cms-ext-us.battle.net
 cdn.akamai.steamstatic.com
 cdn.cloudflare.steamstatic.com
@@ -35,6 +37,8 @@ cm1-ord1.cm.steampowered.com
 cm1-sea1.cm.steampowered.com
 cm1-sgp1.cm.steampowered.com
 cm1-syd1.cm.steampowered.com
+cm1-tyo1.cm.steampowered.com
+cm1-tyo2.cm.steampowered.com
 cm2-dfw1.cm.steampowered.com
 cm2-hkg1.cm.steampowered.com
 cm2-lax1.cm.steampowered.com
@@ -42,12 +46,16 @@ cm2-ord1.cm.steampowered.com
 cm2-sea1.cm.steampowered.com
 cm2-sgp1.cm.steampowered.com
 cm2-syd1.cm.steampowered.com
+cm2-tyo1.cm.steampowered.com
+cm2-tyo2.cm.steampowered.com
+cm3-hkg1.cm.steampowered.com
 cm3-lax1.cm.steampowered.com
 cm3-sgp1.cm.steampowered.com
 cm4-hkg1.cm.steampowered.com
 cm4-lax1.cm.steampowered.com
 cm4-sgp1.cm.steampowered.com
 cm5-lax1.cm.steampowered.com
+cm6-iad1.cm.steampowered.com
 cm6-lax1.cm.steampowered.com
 community.akamai.steamstatic.com
 community.cloudflare.steamstatic.com
@@ -84,6 +92,7 @@ media.steampowered.com
 musicmatch-ssl.xboxlive.com
 northamerica.lers.loyalty.riotgames.com
 nydus.battle.net
+oc1.chat.si.riotgames.com
 playerpreferences.riotgames.com
 playvalorant.com
 pmc.pay.riotgames.com
