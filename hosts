@@ -32,6 +32,7 @@ cloud.bluestacks.com
 cloudcollection-ssl.xboxlive.com
 cm1-dfw1.cm.steampowered.com
 cm1-hkg1.cm.steampowered.com
+cm1-iad1.cm.steampowered.com
 cm1-lax1.cm.steampowered.com
 cm1-ord1.cm.steampowered.com
 cm1-sea1.cm.steampowered.com
@@ -41,6 +42,7 @@ cm1-tyo1.cm.steampowered.com
 cm1-tyo2.cm.steampowered.com
 cm2-dfw1.cm.steampowered.com
 cm2-hkg1.cm.steampowered.com
+cm2-iad1.cm.steampowered.com
 cm2-lax1.cm.steampowered.com
 cm2-ord1.cm.steampowered.com
 cm2-sea1.cm.steampowered.com
@@ -49,11 +51,14 @@ cm2-syd1.cm.steampowered.com
 cm2-tyo1.cm.steampowered.com
 cm2-tyo2.cm.steampowered.com
 cm3-hkg1.cm.steampowered.com
+cm3-iad1.cm.steampowered.com
 cm3-lax1.cm.steampowered.com
 cm3-sgp1.cm.steampowered.com
 cm4-hkg1.cm.steampowered.com
+cm4-iad1.cm.steampowered.com
 cm4-lax1.cm.steampowered.com
 cm4-sgp1.cm.steampowered.com
+cm5-iad1.cm.steampowered.com
 cm5-lax1.cm.steampowered.com
 cm6-iad1.cm.steampowered.com
 cm6-lax1.cm.steampowered.com
@@ -90,6 +95,7 @@ lol.secure.dyn.riotcdn.net
 matchmaker.krunker.io
 media.steampowered.com
 musicmatch-ssl.xboxlive.com
+ncs.roblox.com
 northamerica.lers.loyalty.riotgames.com
 nydus.battle.net
 oc1.chat.si.riotgames.com
@@ -111,6 +117,7 @@ riot-geo.pas.si.riotgames.com
 riot-geo.vts.si.riotgames.com
 ritoplus.secure.dyn.riotcdn.net
 rt.blitz.gg
+sentry.blitz.gg
 settings-ssl.xboxlive.com
 sieve.services.riotcdn.net
 static.developer.riotgames.com
@@ -129,7 +136,9 @@ steamunlocked.net
 steamusercontent-a.akamaihd.net
 steamuserimages-a.akamaihd.net
 store.akamai.steamstatic.com
+store.cloudflare.steamstatic.com
 store.steampowered.com
+support.steampowered.com
 support-valorant.riotgames.com
 telemetry-in.battle.net
 themes.pay.riotgames.com
