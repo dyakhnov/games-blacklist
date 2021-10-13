@@ -41,12 +41,16 @@ br.chat.si.riotgames.com
 cache1-per-edgx.steamcontent.com
 cache1-syd1.steamcontent.com
 cache2-per-edgx.steamcontent.com
+cache2-syd1.steamcontent.com
+cache3-syd1.steamcontent.com
 cache4-syd1.steamcontent.com
+cache5-syd1.steamcontent.com
 cache-cms-ext-us.battle.net
 catalog.roblox.com
 cdg1-128-116-122-3.roblox.com
 cdn.akamai.steamstatic.com
 cdn.cloudflare.steamstatic.com
+cdn.store.steampowered.com
 chat.roblox.com
 clientconfig.akamai.steamstatic.com
 clientconfig.rpg.riotgames.com
