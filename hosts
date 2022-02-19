@@ -58,6 +58,7 @@ cdn.cloudflare.steamstatic.com
 cdn.store.steampowered.com
 cdn-www.bluestacks.com
 chat.roblox.com
+chat.xboxlive.com
 clientconfig.akamai.steamstatic.com
 clientconfig.rpg.riotgames.com
 client-download.steampowered.com
@@ -187,14 +188,17 @@ musicmatch-ssl.xboxlive.com
 na.vg.ac.pvp.net
 ncs.roblox.com
 northamerica.lers.loyalty.riotgames.com
+notificationinbox.xboxlive.com
 notification.kr.riotgames.com
 notifications.roblox.com
+notify.xboxlive.com
 nrt1-128-116-120-3.roblox.com
 nydus.battle.net
 oc1.chat.si.riotgames.com
 oce-blue.lol.sgp.pvp.net
 ord2-128-116-101-3.roblox.com
 pd.ap.a.pvp.net
+peoplehub.xboxlive.com
 piflc.xboxlive.com
 platinum.roblox.com
 playerpreferences.riotgames.com
@@ -223,9 +227,11 @@ riot-geo.vts.si.riotgames.com
 riot-usw2-1-prod.publishing.riotgames.com
 riotxarcane.riotgames.com
 ritoplus.secure.dyn.riotcdn.net
+rta.xboxlive.com
 rt.blitz.gg
 sea1-128-116-100-3.roblox.com
 sentry.blitz.gg
+sessiondirectory.xboxlive.com
 settings-ssl.xboxlive.com
 settings.xboxlive.com
 shared.ap.a.pvp.net
@@ -294,6 +300,7 @@ wildrift.secure.dyn.riotcdn.net
 www.bluestacks.com
 www.riotgames.com
 www.roblox.com
+xblmessaging.xboxlive.com
 xeas.xboxlive.com
 xetgs.xboxlive.com
 xsso.playvalorant.com
