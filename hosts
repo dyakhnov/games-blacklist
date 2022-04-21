@@ -1,6 +1,7 @@
 api.epicgames.dev
 api.steampowered.com
 avatars.akamai.steamstatic.com
+bacon.secure.dyn.riotcdn.net
 cache1-per-edgx.steamcontent.com
 cache1-syd1.steamcontent.com
 cache2-per-edgx.steamcontent.com
@@ -39,6 +40,7 @@ google.cdn.steampipe.steamcontent.com
 inbox.clashofclans.com
 ipv6check-http.steamcontent.com
 ipv6check-udp.steamcontent.com
+jp1.chat.si.riotgames.com
 lancache.steamcontent.com
 level3.cdn.steampipe.steamcontent.com
 lol.secure.dyn.riotcdn.net
@@ -49,6 +51,7 @@ oc1.chat.si.riotgames.com
 oce-blue.lol.sgp.pvp.net
 privacy.xboxlive.com
 riot-client.dyn.riotcdn.net
+riot-client.secure.dyn.riotcdn.net
 riot-geo.pas.si.riotgames.com
 settings-ssl.xboxlive.com
 sieve.services.riotcdn.net
@@ -69,3 +72,4 @@ us.edge.rms.si.riotgames.com
 users.roblox.com
 valorant.dyn.riotcdn.net
 valorant.secure.dyn.riotcdn.net
+wildrift.secure.dyn.riotcdn.net
