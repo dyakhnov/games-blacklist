@@ -1,5 +1,6 @@
 api.epicgames.dev
 api.steampowered.com
+auth.riotgames.com
 avatars.akamai.steamstatic.com
 bacon.secure.dyn.riotcdn.net
 cache1-per-edgx.steamcontent.com
@@ -27,12 +28,15 @@ cm2-ord1.cm.steampowered.com
 cm2-sea1.cm.steampowered.com
 cm2-syd1.cm.steampowered.com
 cm5-lax1.cm.steampowered.com
+cm6-ams1.cm.steampowered.com
 cm6-lax1.cm.steampowered.com
+community.akamai.steamstatic.com
 community.cloudflare.steamstatic.com
 crash.steampowered.com
 data.riotgames.com
 device.auth.xboxlive.com
 ekg.riotgames.com
+entitlements.auth.riotgames.com
 gamea.clashofclans.com
 game.clashroyaleapp.com
 google2.cdn.steampipe.steamcontent.com
@@ -70,6 +74,7 @@ title.auth.xboxlive.com
 title.mgt.xboxlive.com
 us.edge.rms.si.riotgames.com
 users.roblox.com
+usw.pp.sgp.riotgames.com
 valorant.dyn.riotcdn.net
 valorant.secure.dyn.riotcdn.net
 wildrift.secure.dyn.riotcdn.net
