@@ -1,7 +1,9 @@
+analytics.developer.riotgames.com
 api.epicgames.dev
 api.steampowered.com
 auth.riotgames.com
 avatars.akamai.steamstatic.com
+avatars.cloudflare.steamstatic.com
 bacon.secure.dyn.riotcdn.net
 cache1-per-edgx.steamcontent.com
 cache1-syd1.steamcontent.com
@@ -63,6 +65,7 @@ riot-geo.pas.si.riotgames.com
 settings-ssl.xboxlive.com
 shared.ap.a.pvp.net
 sieve.services.riotcdn.net
+static.developer.riotgames.com
 steamcdn-a.akamaihd.net
 steam-chat.com
 steamcloud-sydney.storage.googleapis.com
@@ -82,3 +85,4 @@ usw.pp.sgp.riotgames.com
 valorant.dyn.riotcdn.net
 valorant.secure.dyn.riotcdn.net
 wildrift.secure.dyn.riotcdn.net
+xsts.auth.xboxlive.com
