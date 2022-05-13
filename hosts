@@ -5,6 +5,7 @@ auth.riotgames.com
 avatars.akamai.steamstatic.com
 avatars.cloudflare.steamstatic.com
 bacon.secure.dyn.riotcdn.net
+blitz-stable.blitz.gg
 cache1-per-edgx.steamcontent.com
 cache1-syd1.steamcontent.com
 cache2-per-edgx.steamcontent.com
@@ -29,6 +30,7 @@ cm1-sgp1.cm.steampowered.com
 cm1-syd1.cm.steampowered.com
 cm2-atl1.cm.steampowered.com
 cm2-dfw1.cm.steampowered.com
+cm2-fra2.cm.steampowered.com
 cm2-ord1.cm.steampowered.com
 cm2-par1.cm.steampowered.com
 cm2-sea1.cm.steampowered.com
@@ -50,6 +52,7 @@ game.clashroyaleapp.com
 glz-ap-1.ap.a.pvp.net
 google2.cdn.steampipe.steamcontent.com
 google.cdn.steampipe.steamcontent.com
+help.steampowered.com
 inbox.clashofclans.com
 ipv6check-http.steamcontent.com
 ipv6check-udp.steamcontent.com
@@ -58,16 +61,19 @@ lancache.steamcontent.com
 level3.cdn.steampipe.steamcontent.com
 lol.secure.dyn.riotcdn.net
 media.steampowered.com
+musicart.xboxlive.com
 na.vg.ac.pvp.net
 ncs.roblox.com
 notificationinbox.xboxlive.com
 oc1.chat.si.riotgames.com
 oce-blue.lol.sgp.pvp.net
 pd.ap.a.pvp.net
+peoplehub.xboxlive.com
 privacy.xboxlive.com
 riot-client.dyn.riotcdn.net
 riot-client.secure.dyn.riotcdn.net
 riot-geo.pas.si.riotgames.com
+rta.xboxlive.com
 settings-ssl.xboxlive.com
 shared.ap.a.pvp.net
 sieve.services.riotcdn.net
@@ -82,6 +88,7 @@ steampipe.akamaized.net
 steamstore-a.akamaihd.net
 steamuserimages-a.akamaihd.net
 store.steampowered.com
+support.steampowered.com
 telemetry.vg.ac.pvp.net
 title.auth.xboxlive.com
 title.mgt.xboxlive.com
@@ -91,4 +98,5 @@ usw.pp.sgp.riotgames.com
 valorant.dyn.riotcdn.net
 valorant.secure.dyn.riotcdn.net
 wildrift.secure.dyn.riotcdn.net
+xblmessaging.xboxlive.com
 xsts.auth.xboxlive.com
