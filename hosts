@@ -5,6 +5,8 @@ auth.riotgames.com
 avatars.akamai.steamstatic.com
 avatars.cloudflare.steamstatic.com
 bacon.secure.dyn.riotcdn.net
+blitz-deltas.blitz.gg
+blitz-desktop.blitz.gg
 blitz-stable.blitz.gg
 cache1-per-edgx.steamcontent.com
 cache1-syd1.steamcontent.com
@@ -22,6 +24,7 @@ clientsettingscdn.roblox.com
 cloudcollection-ssl.xboxlive.com
 cm1-atl1.cm.steampowered.com
 cm1-dfw1.cm.steampowered.com
+cm1-fra1.cm.steampowered.com
 cm1-fra2.cm.steampowered.com
 cm1-ord1.cm.steampowered.com
 cm1-par1.cm.steampowered.com
