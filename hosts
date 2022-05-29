@@ -5,6 +5,7 @@ auth.riotgames.com
 avatars.akamai.steamstatic.com
 avatars.cloudflare.steamstatic.com
 bacon.secure.dyn.riotcdn.net
+blitz-analytics-batch-server.blitz.gg
 blitz-deltas.blitz.gg
 blitz-desktop.blitz.gg
 blitz-stable.blitz.gg
@@ -72,6 +73,7 @@ oc1.chat.si.riotgames.com
 oce-blue.lol.sgp.pvp.net
 pd.ap.a.pvp.net
 peoplehub.xboxlive.com
+prebid.blitz.gg
 privacy.xboxlive.com
 riot-client.dyn.riotcdn.net
 riot-client.secure.dyn.riotcdn.net
