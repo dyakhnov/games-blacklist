@@ -1,6 +1,9 @@
 analytics.developer.riotgames.com
 api.epicgames.dev
 api.steampowered.com
+apse.pp.riotgames.com
+ap.vg.ac.pvp.net
+asia.vts.si.riotgames.com
 authenticate.riotgames.com
 auth.riotgames.com
 avatars.akamai.steamstatic.com
@@ -91,6 +94,7 @@ riot-client.dyn.riotcdn.net
 riot-client.secure.dyn.riotcdn.net
 riotgames.zendesk.com
 riot-geo.pas.si.riotgames.com
+riot-usw2-1-prod.publishing.riotgames.com
 ritoplus.secure.dyn.riotcdn.net
 rta.xboxlive.com
 settings-ssl.xboxlive.com
@@ -115,11 +119,14 @@ test.steampowered.com
 title.auth.xboxlive.com
 title.mgt.xboxlive.com
 us.edge.rms.si.riotgames.com
+user.auth.xboxlive.com
 users.roblox.com
 usw.pp.riotgames.com
 usw.pp.sgp.riotgames.com
 valorant.dyn.riotcdn.net
 valorant.secure.dyn.riotcdn.net
+valxp0apse1-mim.vivox.com
+valxp0apse1.www.vivox.com
 wildrift.secure.dyn.riotcdn.net
 xblmessaging.xboxlive.com
 xsso.riotgames.com
