@@ -1,10 +1,13 @@
 analytics.developer.riotgames.com
 ap-ak.vg.ac.pvp.net
 api.epicgames.dev
+api.krunker.io
 api.steampowered.com
+app-beta.blitz.gg
 apse.pp.riotgames.com
 ap.vg.ac.pvp.net
 asia.vts.si.riotgames.com
+assets.krunker.io
 authenticate.riotgames.com
 auth.riotgames.com
 avatars.akamai.steamstatic.com
@@ -68,6 +71,8 @@ help.steampowered.com
 inbox.clashofclans.com
 inbox.clashroyale.com
 inbox-production.esports.clashroyale.com
+ip_a527d41ae2ad1002a4000c008077f94a.krunker.io
+ip_bc5a7727236124b3a6f77790e2826d21.krunker.io
 ipv6check-http.steamcontent.com
 ipv6check-udp.steamcontent.com
 jp1.chat.si.riotgames.com
@@ -76,6 +81,7 @@ la1.chat.si.riotgames.com
 lancache.steamcontent.com
 level3.cdn.steampipe.steamcontent.com
 lol.secure.dyn.riotcdn.net
+matchmaker.krunker.io
 media.steampowered.com
 musicart.xboxlive.com
 na.vg.ac.pvp.net
