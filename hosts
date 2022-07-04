@@ -14,6 +14,9 @@ avatars.akamai.steamstatic.com
 avatars.cloudflare.steamstatic.com
 bacon.secure.dyn.riotcdn.net
 blitz-analytics-batch-server.blitz.gg
+blitz-cdn.blitz.gg
+blitz-cdn-plain.blitz.gg
+blitz-cdn-videos.blitz.gg
 blitz-deltas.blitz.gg
 blitz-desktop.blitz.gg
 blitz-stable.blitz.gg
