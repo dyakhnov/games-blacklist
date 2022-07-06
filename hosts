@@ -1,3 +1,4 @@
+account-public-service-prod03.ol.epicgames.com
 analytics.developer.riotgames.com
 ap-ak.vg.ac.pvp.net
 api.epicgames.dev
@@ -59,6 +60,7 @@ community.akamai.steamstatic.com
 community.cloudflare.steamstatic.com
 crash.steampowered.com
 data.riotgames.com
+datarouter.ol.epicgames.com
 device.auth.xboxlive.com
 dlassets-ssl.xboxlive.com
 ekg.riotgames.com
@@ -100,6 +102,7 @@ playerpreferences.riotgames.com
 prebid.blitz.gg
 privacy.xboxlive.com
 prod.oc1.lol.riotgames.com
+qos2.ol.epicgames.com
 riot-client.dyn.riotcdn.net
 riot-client.secure.dyn.riotcdn.net
 riotgames.zendesk.com
