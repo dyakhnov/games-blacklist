@@ -61,6 +61,7 @@ community.akamai.steamstatic.com
 community.cloudflare.steamstatic.com
 connect.epicgames.dev
 connect.ol.epicgames.com
+content-controls-prod.ol.epicgames.net
 crash.steampowered.com
 data.riotgames.com
 datarouter.ol.epicgames.com
@@ -85,6 +86,7 @@ geo-info-usw.publishing.riotgames.com
 glz-ap-1.ap.a.pvp.net
 google2.cdn.steampipe.steamcontent.com
 google.cdn.steampipe.steamcontent.com
+graphql.epicgames.com
 help.steampowered.com
 inbox.clashofclans.com
 inbox.clashroyale.com
