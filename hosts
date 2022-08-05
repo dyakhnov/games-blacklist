@@ -1,4 +1,5 @@
 account-public-service-prod03.ol.epicgames.com
+account-public-service-prod.ak.epicgames.com
 analytics.developer.riotgames.com
 ap-ak.vg.ac.pvp.net
 api.epicgames.dev
@@ -73,14 +74,18 @@ content-controls-prod.ol.epicgames.net
 crash.steampowered.com
 data.riotgames.com
 datarouter.ol.epicgames.com
+datarouter-prod.ak.epicgames.com
 device.auth.xboxlive.com
 dlassets-ssl.xboxlive.com
 download2.epicgames.com
+download3.epicgames.com
+download4.epicgames.com
 download.epicgames.com
 ekg.riotgames.com
 entitlement-public-service-prod08.ol.epicgames.com
 entitlements.auth.riotgames.com
 epicgames.com
+epicgames-download1.akamaized.net
 epic-social-game-overlay-prod.ol.epicgames.com
 epic-social-social-modules-prod.ol.epicgames.com
 eulatracking-public-service-prod06.ol.epicgames.com
@@ -109,6 +114,7 @@ ks-foundation.secure.dyn.riotcdn.net
 la1.chat.si.riotgames.com
 lancache.steamcontent.com
 launcher-public-service-prod06.ol.epicgames.com
+launcher-public-service-prod.ak.epicgames.com
 launcher.store.epicgames.com
 level3.cdn.steampipe.steamcontent.com
 library-service.live.use1a.on.epicgames.com
@@ -118,6 +124,7 @@ matchmaker.krunker.io
 media-cdn.epicgames.com
 media.steampowered.com
 musicart.xboxlive.com
+musicmatch-ssl.xboxlive.com
 na.vg.ac.pvp.net
 ncs.roblox.com
 northamerica.lers.loyalty.riotgames.com
@@ -133,6 +140,7 @@ prebid.blitz.gg
 priceengine-public-service-ecomprod01.ol.epicgames.com
 privacy.xboxlive.com
 prod.oc1.lol.riotgames.com
+qos1.ol.epicgames.com
 qos2.ol.epicgames.com
 riot-client.dyn.riotcdn.net
 riot-client.secure.dyn.riotcdn.net
