@@ -14,6 +14,7 @@ authenticate.riotgames.com
 auth.riotgames.com
 avatars.akamai.steamstatic.com
 avatars.cloudflare.steamstatic.com
+avatars.steamstatic.com
 bacon.secure.dyn.riotcdn.net
 blitz-analytics-batch-server.blitz.gg
 blitz-cdn.blitz.gg
@@ -142,6 +143,7 @@ privacy.xboxlive.com
 prod.oc1.lol.riotgames.com
 qos1.ol.epicgames.com
 qos2.ol.epicgames.com
+qos3.ol.epicgames.com
 riot-client.dyn.riotcdn.net
 riot-client.secure.dyn.riotcdn.net
 riotgames.zendesk.com
